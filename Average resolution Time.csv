@@ -1,0 +1,21 @@
+,category,priority,resolution_time
+0,Business Service,3 - Moderate,12.19924603174603
+1,Collaboration,4 - Low,1.280888888888889
+2,Facilities,4 - Low,17.371527777777775
+3,Finance,1 - Critical,53.048611111111114
+4,Finance,2 - High,3.5927777777777776
+5,Finance,3 - Moderate,46.33175925925926
+6,Finance,4 - Low,131.60738782051283
+7,Hardware,2 - High,0.07611111111111112
+8,Hardware-Infrastructure,1 - Critical,0.1897222222222222
+9,Hardware-Infrastructure,2 - High,57.18885738831616
+10,Hardware-Infrastructure,3 - Moderate,11.76113333215506
+11,Hardware-Infrastructure,4 - Low,36.700185113636365
+12,Network,3 - Moderate,0.02722222222222222
+13,Network,4 - Low,100.89672514619883
+14,Software,1 - Critical,51.75615384615385
+15,Software,2 - High,38.44153686982694
+16,Software,3 - Moderate,46.98113570596798
+17,Software,4 - Low,145.36233957857087
+18,Workstation,3 - Moderate,18.95298148148148
+19,Workstation,4 - Low,19.489787968441814
